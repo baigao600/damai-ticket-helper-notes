@@ -2,6 +2,10 @@
 
 记录基于 [Lzhimie/damai-ticket-helper v1.0.0](https://github.com/Lzhimie/damai-ticket-helper/releases/tag/v1.0.0) 的 Windows 环境搭建、手机连接排查和选票页面兼容性验证。上游项目源自 [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)。
 
+## 本项目的原创贡献
+
+本项目独立编写了 Windows / Android 诊断脚本、兼容性排查记录和回归测试。具体修复、验证方法与未验收项见[实机与回归验证记录](VERIFICATION.md)。
+
 ## 验证状态
 
 | 项目 | 结果 |
